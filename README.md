@@ -99,3 +99,15 @@ aliases:
 ---
 *Maintained by: Thomas Furst*
 *Last updated: 2026-06-03*
+
+## The Correction That Proves the Method
+
+The first two versions of this analysis cited the wrong TinyAGI repository. The synthesis note looked complete. The sources appeared plausible. But the protocol required primary-source confirmation before High confidence — and when the real README arrived, the error was revealed.
+
+`TinyAGI/fractals` (637 stars, port 1618, explicit fractal framing) is distinct from `TinyAGI/tinyagi` (multi-channel assistant, no fractal framing).
+
+The error was caught, corrected, and permanently logged in an after-action review. That is not a failure. That is epistemic compound interest.
+
+**The quiet movement is real — and it checks its sources.**
+
+*La misma pauta, cada escala, para siempre.*

@@ -1,0 +1,1 @@
+/home/furstlight/Documents/Furstlight_MasterVault/03_Resources/MOCs/MOC-Fractal_AI.md

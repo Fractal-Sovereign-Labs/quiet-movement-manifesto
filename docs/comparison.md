@@ -1,0 +1,1 @@
+/home/furstlight/Documents/Furstlight_MasterVault/03_Resources/Claims/Claim_Comparison_Fractal_Systems_v2.md
